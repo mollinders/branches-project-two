@@ -9,12 +9,15 @@ body {
 	margin: 0 auto;
 }
 
-/* Header section */
-.header {
+.inside {
 	font-size: 2em;
 	font-weight: 700;
 	text-align: center;
 	text-transform: uppercase;
+}
+
+/* Header section */
+.header {
 	background-color: #00396E;
 	color: #FFFFFF;
 	padding: 60px 30px 30px;
@@ -22,10 +25,6 @@ body {
 
 /* Content section */
 .content {
-	font-size: 2em;
-	font-weight: 700;
-	text-align: center;
-	text-transform: uppercase;
 	background-color:  #EEEEEE;
 	color: #777777;
 	padding: 100px 30px;
@@ -33,11 +32,7 @@ body {
 
 /* Footer section */
 .footer {
-	font-size: 2em;
-	font-weight: 700;
-	text-align: center;
-	text-transform: uppercase;
 	background-color: #001635;
 	color: #FFFFFF;
-	padding: 30px 30px 60px;
+	padding: 30px 30px 100px;
 }
