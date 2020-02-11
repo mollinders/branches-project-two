@@ -22,7 +22,13 @@ body {
 
 /* Content section */
 .content {
-
+	font-size: 2em;
+	font-weight: 700;
+	text-align: center;
+	text-transform: uppercase;
+	background-color:  #EEEEEE;
+	color: #777777;
+	padding: 80px 30px;
 }
 
 /* Footer section */
