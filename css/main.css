@@ -17,7 +17,7 @@ body {
 	text-transform: uppercase;
 	background-color: #00396E;
 	color: #FFFFFF;
-	padding: 40px 30px 30px;
+	padding: 60px 30px 30px;
 }
 
 /* Content section */
@@ -28,7 +28,7 @@ body {
 	text-transform: uppercase;
 	background-color:  #EEEEEE;
 	color: #777777;
-	padding: 80px 30px;
+	padding: 100px 30px;
 }
 
 /* Footer section */
@@ -39,5 +39,5 @@ body {
 	text-transform: uppercase;
 	background-color: #00396E;
 	color: #FFFFFF;
-	padding: 30px 30px 40px;
+	padding: 30px 30px 60px;
 }
