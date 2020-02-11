@@ -11,7 +11,13 @@ body {
 
 /* Header section */
 .header {
-
+	font-size: 2em;
+	font-weight: 700;
+	text-align: center;
+	text-transform: uppercase;
+	background-color: #00396E;
+	color: #FFFFFF;
+	padding: 40px 30px 30px;
 }
 
 /* Content section */
